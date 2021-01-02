@@ -1,7 +1,7 @@
 .pytest_cache/
-*/__pycache__
-*/.exercism
-*/.pytest_cache
+*/__pycache__/
+*/*/.exercism/
+*/.pytest_cache/
 .vscode/
 github
 github.pub
