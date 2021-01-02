@@ -3,3 +3,5 @@
 */.exercism
 */.pytest_cache
 .vscode/
+github
+github.pub
